@@ -7,7 +7,8 @@ The game completes when all the cards have been taken.
 ## Features
 
 ### Coding by MVC Structure.
-It is a MVC structure practice program. The target is to write low coupling modules.
+It is a MVC structure practice program. 
+All moudules are classified into three objects: model, view and controller. The target is to write low coupling modules.
 
 ### Progress Controlled by GAME_STATE
 The program is devided into following 5 GAME_STATE. All processes are controled by the 5 GAME_STATE.
